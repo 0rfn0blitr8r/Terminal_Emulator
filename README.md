@@ -1,2 +1,2 @@
-# Terminal_Emulator
+# Terminal Emulator
 Git repo for linux terminal emulator
